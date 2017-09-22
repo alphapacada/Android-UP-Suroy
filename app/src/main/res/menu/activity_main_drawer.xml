@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/grp1" android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/photos"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/videos"
+            android:title="Videos" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/floorplans"
+            android:title="Indoor Maps"/>
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@android:drawable/ic_dialog_alert"
+            android:title="About UP" />
+        <item
+            android:id="@+id/nav_tours"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="View Map" />
+
+
+
+
+    </group>
+    <group android:id="@+id/grp2" android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="About" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Contact Us" />
+    </group>
+
+
+
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "519760481082",
+    "firebase_url": "https://upsuroy.firebaseio.com",
+    "project_id": "upsuroy",
+    "storage_bucket": "upsuroy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519760481082:android:e724a8c71464d3bd",
+        "android_client_info": {
+          "package_name": "map.mapexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519760481082-gqfvadhrko3q21abghskmr1nkn5oa8gf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "map.mapexample",
+            "certificate_hash": "cd654a73ca79a0e86a630e2b74364c2e82c1fabb"
+          }
+        },
+        {
+          "client_id": "519760481082-p1s6igpqe70r6956dft81vmsq7ckag5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhl2CX1d3nATrk97nxq5TnABCVqe8Y2kU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519760481082-p1s6igpqe70r6956dft81vmsq7ckag5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
